@@ -89,6 +89,27 @@ void destroyList(LinkList* List) {
     }
 }
 
+
+//在头增加结点
+void addLNode(LinkList& List,int value) {
+    LNode* newLNode = new LNode;
+    newLNode->data = value;
+    LinkList* L = &List;
+    if (L->next==nullptr)
+    {
+
+        L->next=newLNode;
+    }
+    else
+    {
+
+        newLNode->next = L->next;
+        L->next = newLNode;
+    }
+}
+
+
+ 
 // 测试用例
 int main() {
     LinkList* list = initList();
@@ -97,6 +118,9 @@ int main() {
     insertNode(list, 10, 1);
     insertNode(list, 20, 2);
     insertNode(list, 30, 3);
+
+    //添加测试
+    addLNode(*list,6);
 
     // 长度测试
     cout << "Length: " << ListLength(list) << endl;
