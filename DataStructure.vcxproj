@@ -24,7 +24,7 @@
     <ProjectGuid>{66fb0ba8-fa67-4119-9c19-4a6ae578a9bf}</ProjectGuid>
     <RootNamespace>DataStructure</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>LinkList</ProjectName>
+    <ProjectName>DataStructure</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -124,6 +124,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="CircularDoubleyLinkList.cpp" />
     <ClCompile Include="Graph.cpp" />
     <ClCompile Include="LinkList.cpp" />
   </ItemGroup>

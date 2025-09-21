@@ -1,3 +1,4 @@
+/*
 #include<iostream>
 using namespace std;
 
@@ -136,3 +137,4 @@ int main() {
     destroyList(list);
     return 0;
 }
+*/
