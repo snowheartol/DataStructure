@@ -128,6 +128,7 @@
     <ClCompile Include="Graph.cpp" />
     <ClCompile Include="LinkList.cpp" />
     <ClCompile Include="Sequeue.cpp" />
+    <ClCompile Include="SharedStack.cpp" />
     <ClCompile Include="Stack.cpp" />
     <ClCompile Include="Tree.cpp" />
   </ItemGroup>

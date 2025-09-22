@@ -33,5 +33,8 @@
     <ClCompile Include="Tree.cpp">
       <Filter>DataStructure\头文件</Filter>
     </ClCompile>
+    <ClCompile Include="SharedStack.cpp">
+      <Filter>DataStructure\头文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

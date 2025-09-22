@@ -1,3 +1,4 @@
+/*
 #include<iostream>
 using namespace std;
 
@@ -49,3 +50,5 @@ int main() {
 	push(stack, 1);
 	cout<<pop(stack)<<endl;
 }
+*/
+
