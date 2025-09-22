@@ -24,5 +24,14 @@
     <ClCompile Include="CircularDoubleyLinkList.cpp">
       <Filter>DataStructure\头文件</Filter>
     </ClCompile>
+    <ClCompile Include="Stack.cpp">
+      <Filter>DataStructure\头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Sequeue.cpp">
+      <Filter>DataStructure\头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Tree.cpp">
+      <Filter>DataStructure\头文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

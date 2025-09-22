@@ -127,6 +127,9 @@
     <ClCompile Include="CircularDoubleyLinkList.cpp" />
     <ClCompile Include="Graph.cpp" />
     <ClCompile Include="LinkList.cpp" />
+    <ClCompile Include="Sequeue.cpp" />
+    <ClCompile Include="Stack.cpp" />
+    <ClCompile Include="Tree.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
