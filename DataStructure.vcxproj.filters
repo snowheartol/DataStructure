@@ -36,5 +36,14 @@
     <ClCompile Include="SharedStack.cpp">
       <Filter>DataStructure\头文件</Filter>
     </ClCompile>
+    <ClCompile Include="串的暴力匹配与KMP算法.cpp">
+      <Filter>DataStructure\头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ClueTree.cpp">
+      <Filter>DataStructure\头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="PostfixExpression.cpp">
+      <Filter>DataStructure\头文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

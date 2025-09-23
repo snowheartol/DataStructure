@@ -125,12 +125,15 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="CircularDoubleyLinkList.cpp" />
+    <ClCompile Include="ClueTree.cpp" />
     <ClCompile Include="Graph.cpp" />
     <ClCompile Include="LinkList.cpp" />
+    <ClCompile Include="PostfixExpression.cpp" />
     <ClCompile Include="Sequeue.cpp" />
     <ClCompile Include="SharedStack.cpp" />
     <ClCompile Include="Stack.cpp" />
     <ClCompile Include="Tree.cpp" />
+    <ClCompile Include="串的暴力匹配与KMP算法.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
