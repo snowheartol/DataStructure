@@ -45,5 +45,32 @@
     <ClCompile Include="PostfixExpression.cpp">
       <Filter>DataStructure\头文件</Filter>
     </ClCompile>
+    <ClCompile Include="HuffmanTree.cpp">
+      <Filter>DataStructure\头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="AdjacencyMatrix邻接矩阵.cpp">
+      <Filter>DataStructure\头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="AdjacencyList邻接链表.cpp">
+      <Filter>DataStructure\头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OrthogonalList十字链表.cpp">
+      <Filter>DataStructure\头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="MultiList多重邻接链表.cpp">
+      <Filter>DataStructure</Filter>
+    </ClCompile>
+    <ClCompile Include="DisjointSet并查集.cpp">
+      <Filter>DataStructure</Filter>
+    </ClCompile>
+    <ClCompile Include="树的孩子表示法.cpp">
+      <Filter>DataStructure</Filter>
+    </ClCompile>
+    <ClCompile Include="树的双亲表示法.cpp">
+      <Filter>DataStructure</Filter>
+    </ClCompile>
+    <ClCompile Include="树和森林与二叉树间的转换.cpp">
+      <Filter>DataStructure\头文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

@@ -124,16 +124,25 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="AdjacencyList邻接链表.cpp" />
+    <ClCompile Include="AdjacencyMatrix邻接矩阵.cpp" />
     <ClCompile Include="CircularDoubleyLinkList.cpp" />
     <ClCompile Include="ClueTree.cpp" />
+    <ClCompile Include="DisjointSet并查集.cpp" />
     <ClCompile Include="Graph.cpp" />
+    <ClCompile Include="HuffmanTree.cpp" />
     <ClCompile Include="LinkList.cpp" />
+    <ClCompile Include="MultiList多重邻接链表.cpp" />
+    <ClCompile Include="OrthogonalList十字链表.cpp" />
     <ClCompile Include="PostfixExpression.cpp" />
     <ClCompile Include="Sequeue.cpp" />
     <ClCompile Include="SharedStack.cpp" />
     <ClCompile Include="Stack.cpp" />
     <ClCompile Include="Tree.cpp" />
     <ClCompile Include="串的暴力匹配与KMP算法.cpp" />
+    <ClCompile Include="树和森林与二叉树间的转换.cpp" />
+    <ClCompile Include="树的双亲表示法.cpp" />
+    <ClCompile Include="树的孩子表示法.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
