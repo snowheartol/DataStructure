@@ -126,15 +126,19 @@
   <ItemGroup>
     <ClCompile Include="AdjacencyList邻接链表.cpp" />
     <ClCompile Include="AdjacencyMatrix邻接矩阵.cpp" />
+    <ClCompile Include="BFS图的广度优先遍历.cpp" />
     <ClCompile Include="CircularDoubleyLinkList.cpp" />
     <ClCompile Include="ClueTree.cpp" />
+    <ClCompile Include="DFS图的深度优先遍历.cpp" />
     <ClCompile Include="DisjointSet并查集.cpp" />
     <ClCompile Include="Graph.cpp" />
     <ClCompile Include="HuffmanTree.cpp" />
+    <ClCompile Include="kruskal算法.cpp" />
     <ClCompile Include="LinkList.cpp" />
     <ClCompile Include="MultiList多重邻接链表.cpp" />
     <ClCompile Include="OrthogonalList十字链表.cpp" />
     <ClCompile Include="PostfixExpression.cpp" />
+    <ClCompile Include="Prime算法.cpp" />
     <ClCompile Include="Sequeue.cpp" />
     <ClCompile Include="SharedStack.cpp" />
     <ClCompile Include="Stack.cpp" />
