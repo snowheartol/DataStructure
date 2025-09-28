@@ -84,6 +84,12 @@
     <ClCompile Include="kruskal算法.cpp">
       <Filter>DataStructure</Filter>
     </ClCompile>
+    <ClCompile Include="Dijkstra算法求单源最短路径问题.cpp">
+      <Filter>DataStructure\头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Floyd算法求各顶点间最短路径问题.cpp">
+      <Filter>DataStructure</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="resource.h">

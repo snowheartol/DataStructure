@@ -130,7 +130,9 @@
     <ClCompile Include="CircularDoubleyLinkList.cpp" />
     <ClCompile Include="ClueTree.cpp" />
     <ClCompile Include="DFS图的深度优先遍历.cpp" />
+    <ClCompile Include="Dijkstra算法求单源最短路径问题.cpp" />
     <ClCompile Include="DisjointSet并查集.cpp" />
+    <ClCompile Include="Floyd算法求各顶点间最短路径问题.cpp" />
     <ClCompile Include="Graph.cpp" />
     <ClCompile Include="HuffmanTree.cpp" />
     <ClCompile Include="kruskal算法.cpp" />
