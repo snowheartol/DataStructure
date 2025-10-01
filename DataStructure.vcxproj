@@ -141,6 +141,7 @@
     <ClCompile Include="OrthogonalList十字链表.cpp" />
     <ClCompile Include="PostfixExpression.cpp" />
     <ClCompile Include="Prime算法.cpp" />
+    <ClCompile Include="SeqSearch顺序查找.cpp" />
     <ClCompile Include="Sequeue.cpp" />
     <ClCompile Include="SharedStack.cpp" />
     <ClCompile Include="Stack.cpp" />
