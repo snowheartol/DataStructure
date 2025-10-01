@@ -127,6 +127,7 @@
     <ClCompile Include="AdjacencyList邻接链表.cpp" />
     <ClCompile Include="AdjacencyMatrix邻接矩阵.cpp" />
     <ClCompile Include="BFS图的广度优先遍历.cpp" />
+    <ClCompile Include="BinarySearch二分查找.cpp" />
     <ClCompile Include="CircularDoubleyLinkList.cpp" />
     <ClCompile Include="ClueTree.cpp" />
     <ClCompile Include="DFS图的深度优先遍历.cpp" />
@@ -134,6 +135,7 @@
     <ClCompile Include="DisjointSet并查集.cpp" />
     <ClCompile Include="Floyd算法求各顶点间最短路径问题.cpp" />
     <ClCompile Include="Graph.cpp" />
+    <ClCompile Include="HanNuoTa.cpp" />
     <ClCompile Include="HuffmanTree.cpp" />
     <ClCompile Include="kruskal算法.cpp" />
     <ClCompile Include="LinkList.cpp" />
@@ -147,6 +149,8 @@
     <ClCompile Include="Stack.cpp" />
     <ClCompile Include="Tree.cpp" />
     <ClCompile Include="串的暴力匹配与KMP算法.cpp" />
+    <ClCompile Include="二叉排序树BST.cpp" />
+    <ClCompile Include="从n个数中选r个数的组合总数.cpp" />
     <ClCompile Include="树和森林与二叉树间的转换.cpp" />
     <ClCompile Include="树的双亲表示法.cpp" />
     <ClCompile Include="树的孩子表示法.cpp" />
