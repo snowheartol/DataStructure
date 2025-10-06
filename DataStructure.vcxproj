@@ -152,6 +152,8 @@
     <ClCompile Include="串的暴力匹配与KMP算法.cpp" />
     <ClCompile Include="二叉排序树BST.cpp" />
     <ClCompile Include="从n个数中选r个数的组合总数.cpp" />
+    <ClCompile Include="分块查找.cpp" />
+    <ClCompile Include="平衡二叉树.cpp" />
     <ClCompile Include="树和森林与二叉树间的转换.cpp" />
     <ClCompile Include="树的双亲表示法.cpp" />
     <ClCompile Include="树的孩子表示法.cpp" />
