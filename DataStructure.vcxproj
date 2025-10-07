@@ -128,6 +128,7 @@
     <ClCompile Include="AdjacencyMatrix邻接矩阵.cpp" />
     <ClCompile Include="BFS图的广度优先遍历.cpp" />
     <ClCompile Include="BinarySearch二分查找.cpp" />
+    <ClCompile Include="B树.cpp" />
     <ClCompile Include="CircularDoubleyLinkList.cpp" />
     <ClCompile Include="ClueTree.cpp" />
     <ClCompile Include="DFS图的深度优先遍历.cpp" />
@@ -152,11 +153,14 @@
     <ClCompile Include="串的暴力匹配与KMP算法.cpp" />
     <ClCompile Include="二叉排序树BST.cpp" />
     <ClCompile Include="从n个数中选r个数的组合总数.cpp" />
+    <ClCompile Include="冒泡排序.cpp" />
     <ClCompile Include="分块查找.cpp" />
     <ClCompile Include="平衡二叉树.cpp" />
+    <ClCompile Include="插入排序.cpp" />
     <ClCompile Include="树和森林与二叉树间的转换.cpp" />
     <ClCompile Include="树的双亲表示法.cpp" />
     <ClCompile Include="树的孩子表示法.cpp" />
+    <ClCompile Include="红黑树.cpp" />
     <ClCompile Include="鸡兔同笼.cpp" />
   </ItemGroup>
   <ItemGroup>

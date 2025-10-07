@@ -117,6 +117,18 @@
     <ClCompile Include="分块查找.cpp">
       <Filter>DataStructure</Filter>
     </ClCompile>
+    <ClCompile Include="冒泡排序.cpp">
+      <Filter>DataStructure</Filter>
+    </ClCompile>
+    <ClCompile Include="红黑树.cpp">
+      <Filter>DataStructure</Filter>
+    </ClCompile>
+    <ClCompile Include="B树.cpp">
+      <Filter>DataStructure</Filter>
+    </ClCompile>
+    <ClCompile Include="插入排序.cpp">
+      <Filter>DataStructure</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="resource.h">
