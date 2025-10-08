@@ -129,6 +129,30 @@
     <ClCompile Include="插入排序.cpp">
       <Filter>DataStructure</Filter>
     </ClCompile>
+    <ClCompile Include="希尔排序.cpp">
+      <Filter>DataStructure</Filter>
+    </ClCompile>
+    <ClCompile Include="堆排序.cpp">
+      <Filter>DataStructure</Filter>
+    </ClCompile>
+    <ClCompile Include="快速排序.cpp">
+      <Filter>DataStructure</Filter>
+    </ClCompile>
+    <ClCompile Include="简单选择排序.cpp">
+      <Filter>DataStructure</Filter>
+    </ClCompile>
+    <ClCompile Include="归并排序.cpp">
+      <Filter>DataStructure</Filter>
+    </ClCompile>
+    <ClCompile Include="基数排序.cpp">
+      <Filter>DataStructure</Filter>
+    </ClCompile>
+    <ClCompile Include="败者树.cpp">
+      <Filter>DataStructure</Filter>
+    </ClCompile>
+    <ClCompile Include="散列表.cpp">
+      <Filter>DataStructure</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="resource.h">
