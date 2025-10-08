@@ -142,6 +142,8 @@
     <ClCompile Include="LinkList.cpp" />
     <ClCompile Include="MultiList多重邻接链表.cpp" />
     <ClCompile Include="OrthogonalList十字链表.cpp" />
+    <ClCompile Include="PK1001.cpp" />
+    <ClCompile Include="PK1002.cpp" />
     <ClCompile Include="PKOJ_2808.cpp" />
     <ClCompile Include="PostfixExpression.cpp" />
     <ClCompile Include="Prime算法.cpp" />
