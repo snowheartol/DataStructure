@@ -159,6 +159,12 @@
     <ClCompile Include="PK1002.cpp">
       <Filter>DataStructure</Filter>
     </ClCompile>
+    <ClCompile Include="蓝桥杯1259.cpp">
+      <Filter>DataStructure</Filter>
+    </ClCompile>
+    <ClCompile Include="排序函数prev_permutation和next_permutation.cpp">
+      <Filter>DataStructure</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="resource.h">

@@ -163,6 +163,7 @@
     <ClCompile Include="平衡二叉树.cpp" />
     <ClCompile Include="归并排序.cpp" />
     <ClCompile Include="快速排序.cpp" />
+    <ClCompile Include="排序函数prev_permutation和next_permutation.cpp" />
     <ClCompile Include="插入排序.cpp" />
     <ClCompile Include="散列表.cpp" />
     <ClCompile Include="树和森林与二叉树间的转换.cpp" />
@@ -170,6 +171,7 @@
     <ClCompile Include="树的孩子表示法.cpp" />
     <ClCompile Include="简单选择排序.cpp" />
     <ClCompile Include="红黑树.cpp" />
+    <ClCompile Include="蓝桥杯1259.cpp" />
     <ClCompile Include="败者树.cpp" />
     <ClCompile Include="鸡兔同笼.cpp" />
   </ItemGroup>
