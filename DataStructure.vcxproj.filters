@@ -165,6 +165,21 @@
     <ClCompile Include="排序函数prev_permutation和next_permutation.cpp">
       <Filter>DataStructure</Filter>
     </ClCompile>
+    <ClCompile Include="binary_search及相关用法.cpp">
+      <Filter>DataStructure</Filter>
+    </ClCompile>
+    <ClCompile Include="sort快速排序相关的用法.cpp">
+      <Filter>DataStructure</Filter>
+    </ClCompile>
+    <ClCompile Include="蓝桥191.cpp">
+      <Filter>DataStructure</Filter>
+    </ClCompile>
+    <ClCompile Include="蓝桥3227.cpp">
+      <Filter>DataStructure</Filter>
+    </ClCompile>
+    <ClCompile Include="蓝桥760.cpp">
+      <Filter>DataStructure</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="resource.h">
